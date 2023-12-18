@@ -14,4 +14,3 @@ MongoDB was chosen for my database because of it’s flexibility. Since this dat
 document based it can handle many varying attributes, which is perfect to the varying
 kinds of specs and data for snowboards. It’s versatility and lack of relationships
 between the data makes it an easy choice for seamless data entry of the snowboards.
-It was the best fit out of the 4 options provided for this application

@@ -22,7 +22,7 @@ db.Snowboards.insertOne({
 db.Snowboards.insertOne({
     "name": "Mtnpig",
     "season": "23/24",
-    "camber": "Linear Quad",
+    "camber": "Directional Extra",
     "availableLengths": ["151", "155", "159", "160W", "162", "164W"],
     "use": ["All Mountain", "Powder", "Groomers"],
     "abilityLevel": ["Intermediate", "Expert"],
@@ -103,7 +103,7 @@ db.Snowboards.insertOne({
 db.Snowboards.insertOne({
     "name": "Warpig",
     "season": "23/24",
-    "camber": "Bi-Radial",
+    "camber": "Directional Standard",
     "availableLengths": ["142", "148", "151", "154", "158"],
     "use": ["All Mountain", "Park", "Powder", "Groomers"],
     "abilityLevel": ["Beginner", "Intermediate", "Expert"],
@@ -112,7 +112,7 @@ db.Snowboards.insertOne({
 db.Snowboards.insertOne({
     "name": "Andy Dayze X Warpig",
     "season": "23/24",
-    "camber": "Bi-Radial",
+    "camber": "Directional Standard",
     "availableLengths": ["148", "151", "154"],
     "use": ["All Mountain", "Park", "Powder", "Groomers"],
     "abilityLevel": ["Beginner", "Intermediate", "Expert"],
